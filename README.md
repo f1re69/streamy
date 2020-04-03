@@ -22,10 +22,10 @@ Once you create the .env file you can run the backend server and the frontend wi
 ## Built With
 
 * [React.js] (https://reactjs.org) - The frontend library used
-* [Redux] (https://redux.js.org/) - State manager library 
+* [Redux] (https://redux.js.org/) - State manager library
+* [node-media-server] (https://www.npmjs.com/package/node-media-server) - RTMP server
 * [JSON Server] (https://www.npmjs.com/package/json-server) - The backend REST server
 * [Semantic UI] (https://semantic-ui.com/) - CSS Framework
-* [node-media-server] (https://www.npmjs.com/package/node-media-server) - RTMP server
 
 ## Authors
 
