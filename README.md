@@ -1,6 +1,6 @@
 # Streamy
 
-RESTful webservice which allow users to manage and read video streams.
+RESTful webservice which allow users to make and read video stream.
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ cd client
 echo "REACT_APP_GAUTH_ID=YOURCREDENTIAL" > .env
 ```
 
-Once you create the .env file you can run the backend server and the frontend server with npm start.
+Once you create the .env file you can run the backend server and the frontend with npm start.
 
 ## Built With
 
