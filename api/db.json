@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "My first Stream",
+      "description": "Watch me playing League of Legend",
+      "id": 1
+    },
+    {
+      "title": "FFXIV party",
+      "description": "Watch me farming dungeon !",
+      "id": 2
+    },
+    {
+      "title": "CS:GO Party",
+      "description": "Watch me playing for fun !",
+      "id": 3
+    },
+    {
+      "title": "Watch me playing LOL",
+      "description": "I play LOL",
+      "userId": "108441758835437326655",
+      "id": 5
+    },
+    {
+      "title": "CS:GO MMA",
+      "description": "Watch me playing MMA",
+      "id": 6
+    }
+  ]
+}
