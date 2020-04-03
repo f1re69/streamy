@@ -13,7 +13,7 @@ You need to create OAuth2 credential. Check the official documentation here : ht
 One you get your OAuth2 credential, do the following instructions.
 
 ```
-cd clients
+cd client
 echo "REACT_APP_GAUTH_ID=YOURCREDENTIAL" > .env
 ```
 
