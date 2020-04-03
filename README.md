@@ -1,6 +1,6 @@
 # Streamy
 
-RESTful webservice which allow users to manage and read video streams.
+RESTful webservice which allow users to make and read video stream.
 
 ## Getting Started
 
