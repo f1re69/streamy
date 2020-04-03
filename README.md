@@ -1,4 +1,4 @@
-# Project Title
+# Streamy
 
 RESTful webservice which allow users to manage and read video streams.
 
@@ -32,4 +32,4 @@ Once you create the .env file you can run the backend server and the frontend se
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
