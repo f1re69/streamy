@@ -17,7 +17,7 @@ Make sur to replace "YOURCREDENTIAL" by your credential ID given by Google OAuth
 
 ```
 cd client
-echo "REACT_APP_GAUTH_ID=YOURCREDENTIAL" > .env
+echo REACT_APP_GAUTH_ID=YOURCREDENTIAL > .env
 ```
 
 Once you create the .env file you can run the backend server, the rtmp server and the frontend with npm start.
